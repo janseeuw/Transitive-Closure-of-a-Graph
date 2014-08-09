@@ -1,4 +1,7 @@
-Transitive-Closure-of-a-Graph
-=============================
+#Transitive closure of a graph
 
-Transitive Closure of a Graph
+What set of vertices can be reached by following directed edges from each vertex in a digraph? 
+
+## Warshall's algorithm
+
+We can use Warshall's algorithm to calculate a reachability matrix. 
